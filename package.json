@@ -1,0 +1,10 @@
+{
+  "name": "preview-hello",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "workspaces": ["backend", "frontend"],
+  "scripts": {
+    "dev": "node scripts/dev.mjs"
+  }
+}
